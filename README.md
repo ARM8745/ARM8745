@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/5be3c1a6-328f-4bf7-9270-3cecba232de8" />
+  <img width="800" alt="image" src="arthur(assets)/banner1.webp" />
   <hr/>
 </div>
 <hr> 
